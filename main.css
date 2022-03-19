@@ -3,3 +3,16 @@
     margin: 0;
     box-sizing: border-box;
 }
+#header {
+    height: 15vh;
+    background-color: aqua;
+    color: bisque;
+}
+
+#nav li a {
+    text-decoration: none;
+}
+
+#slider h2 {
+    color: blue;
+}
